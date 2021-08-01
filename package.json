@@ -1,0 +1,15 @@
+{
+  "name": "nepua",
+  "version": "1.0.0",
+  "description": "orm",
+  "main": "index.js",
+  "scripts": {
+    "out:w": "tsc -w"
+  },
+  "author": "hans",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mysql": "^2.15.19",
+    "mysql": "^2.18.1"
+  }
+}
